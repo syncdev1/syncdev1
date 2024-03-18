@@ -5,7 +5,7 @@
 ### 🔨 Language and Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,css,html,js,discordjs" />
+  <img src="https://skillicons.dev/icons?i=css,html,js,discordjs" />
 </a>
 
 
