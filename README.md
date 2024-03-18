@@ -4,10 +4,8 @@
 
 ### 🔨 Language and Tools
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,html,c,vim" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,css,html,js,discordjs" />
+</a>
 
 
